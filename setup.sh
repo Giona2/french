@@ -13,6 +13,7 @@ python3 -m venv ~/Documents/Python/french/venv
 source ~/Documents/Python/french/venv/bin/activate
 python3 -m pip install --upgrade pip
 #install needed packages
+source ~/Documents/Python/french/venv/bin/activate
 pip install pydub
 pip install SpeechRecognition
 pip install sounddevice
