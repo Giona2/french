@@ -4,7 +4,7 @@ sudo apt upgrade
 sudo apt install python3
 sudo apt install python3-pip
 sudo apt install python3-venv
-#set up the projet folder
+#set up the project folder
 mkdir ~/Documents/Python
 mv ~/french ~/Documents/Python
 mkidr ~/Documents/Python/french/venv
