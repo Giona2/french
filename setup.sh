@@ -7,7 +7,7 @@ sudo apt install python3-venv
 #set up the project folder
 mkdir ~/Documents/Python
 mv ~/french ~/Documents/Python
-mkidr ~/Documents/Python/french/venv
+mkdir ~/Documents/Python/french/venv
 #set up venv
 python3 -m venv ~/Documents/Python/french/venv
 source "~/Documents/Python/french/venv/bin/activate"
