@@ -10,6 +10,7 @@ mv ~/french ~/Documents/Python
 mkdir ~/Documents/Python/french/venv
 #set up venv
 python3 -m venv ~/Documents/Python/french/venv
+sleep 5
 source "~/Documents/Python/french/venv/bin/activate"
 python3 -m pip install --upgrade pip
 #install needed packages
